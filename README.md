@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adel @Iwazaru2605
 - 👀 I’m interested in PHP, MEVN, Lua, Bootstrap
-- 🌱 I’m currently learning Web Devlopment Back-end
+- 🌱 I’m currently learning back-end web development
 - 📫 ettouiladel1411@icloud.com
 
 <!---
